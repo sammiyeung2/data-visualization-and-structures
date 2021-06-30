@@ -1,0 +1,10 @@
+Sources
+
+Visualization #1 - Scatterplot w/ Line of Best Fit (Seoul Bike Data):
+https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand
+
+Visualization #2 - Bar Graph (Calories):
+https://introcs.cs.princeton.edu/java/data/
+
+Visualization #3 - Line Graph (Dow Jones Industrial Average):
+https://introcs.cs.princeton.edu/java/data/
